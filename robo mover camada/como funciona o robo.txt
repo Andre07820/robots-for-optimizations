@@ -1,0 +1,1 @@
+através do adobe photoshop ele codifica o numero de camadas determinado no código e redimensiona elas para a direção coordena em pixels aonde se houver somente 1 camada ele a coloca em determinada posição, mas se houver duas camadas ele coloca outra posição determinada através de switch case, mas se houver um numero de camadas maior do que o informado ele não faz nada. 

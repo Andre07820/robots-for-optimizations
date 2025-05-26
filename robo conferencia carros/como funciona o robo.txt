@@ -1,0 +1,1 @@
+faz uma conferencia em planilha aonde verifica se os itens existem ou não, aonde se existir ele coloca como ok , mas se algum item faltar ele coloca F (false) para todos os itens referentes. 

@@ -1,0 +1,1 @@
+ele identifica a foto e verifica o tamanho dela, aonde ele redimensiona para o tamanho mais próximo determinado e coloca dois riscos em cada ponta.

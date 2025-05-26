@@ -1,0 +1,1 @@
+redimensiona a foto ao tamanho desejado sem perder qualidade (ou perdendo o mínimo dela)
