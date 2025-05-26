@@ -1,0 +1,1 @@
+através de planilha ele le a coluna A e identifica o arquivo assim ele le a coluna B e o nome que estiver na mesma linha é identificado e assim se cria um novo arquivo com o nome indicado. 

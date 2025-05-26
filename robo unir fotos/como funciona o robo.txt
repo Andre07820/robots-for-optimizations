@@ -1,0 +1,1 @@
+utilizando adobe fotoshop e planilha em CSV ele deve ser executado dentro do photoshop através da aba script, assim ao executar ele le a coluna A e busca o arquivo CSV referente e pula para a coluna B adicionando uma nova camada com o item indicado e salvando ela. 
